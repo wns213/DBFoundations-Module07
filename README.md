@@ -1,7 +1,11 @@
 Whitney Secor 
+
 Due: 24 August 2022 
+
 Foundations of Databases and SQL Programming 
+
 Assignment 7
+
 Link:  https://github.com/wns213/DBFoundations-Module07
 
 **Assignment 07: Functions** 
