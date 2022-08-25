@@ -5,6 +5,7 @@ Assignment 7
 Link:  https://github.com/wns213/DBFoundations-Module07
 
 **Assignment 07: Functions** 
+
 **Introduction**
 
 Functions are a helpful tool in SQL. There are numerous functions a SQL user can utilize, and a user can even create their own functions (UDFs). Most SQL functions return one value (such as GetDate), but you can use them in a SELECT, and apply the function to many rows, saving the SQL user time. In this assignment, I will explore how a user can create their own functions, and the differences between a Scalar, Incline, and Multi-Statement Functions. 
